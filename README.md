@@ -4,7 +4,7 @@ Abl: Code Challenge
 Hi there!  We're ecstatic that you're interested in working for Abl's dev team.  To get a better idea of your current development skills, we'd like for you to complete a code challenge - build a program according to a set of requirements.  The actual business requirements are linked below, but here are the general tech requirements:
 
 1. Write your code using whatever language or framework you feel most comfortable in.
-1. It doesn't matter you build this as a front-end app, a service, a command line program, etc.
+1. It doesn't matter if you build this as a front-end app, a service, a command line program, etc.
 1. Make sure your solution is runnable on Mac OS X or Linux.
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your program.
@@ -60,7 +60,7 @@ Things we care about:
 
 * Fulfilling the basic requirements
 * Breaking the problem into smaller parts and clearly connecting each part
-* What approach you take to testing (if any)
+* What approach you take to testing
 * How you organize your code
 * What you would do differently if this was for real (no time constraints, etc.)
 * Documenting the method for setting up and running your application
